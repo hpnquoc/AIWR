@@ -1,1 +1,1 @@
-# AWIR
+# AWIR: All-weather Image Restoration
